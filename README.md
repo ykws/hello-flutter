@@ -1,17 +1,17 @@
 # Get started Flutter
 
-[![macOS](https://img.shields.io/badge/macOS-Catalina-black)](https://developer.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-Sequoia-black)](https://developer.apple.com/macos/)
 
 https://flutter.dev/
 
-## Running environment
-If you don't have the Android device, need to set up the following tools.
-
-* [ ] Xcode: use iOS Simulator
-* [ ] Android Studio: use Android Emulator
-
-### Issues
-* [idevice_id cannot run on catalina](https://github.com/flutter/flutter/issues/42302)
+## Requirements
+- [Flutter SDK](https://docs.flutter.dev/get-started/install/macos/mobile-ios#download-then-install-flutter)
+- Ruby 2.7 or higher
+  - [rbenv](https://github.com/rbenv/rbenv)
+- [Cocoapods](https://cocoapods.org/)
+- [DartSDK](https://formulae.brew.sh/formula/dart-sdk)
+- [fvm](https://fvm.app/)
+- [SDKMAN](https://sdkman.io/)
 
 ## Tutorials
 
